@@ -63,4 +63,9 @@ build/
 *.exe
 *.out
 *.app
-Makefile*
+debug
+.Release
+.Debug
+Makefile
+.user
+release
